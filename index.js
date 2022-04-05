@@ -24,6 +24,7 @@ stack.push('dog');
 stack.push('cat');
 stack.push('moose');
 console.log(stack.pop());
+console.log(stack.pop());
 stack.push('gazzelle');
 console.log(stack.pop());
 console.log(stack.peek());

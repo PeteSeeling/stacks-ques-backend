@@ -45,3 +45,5 @@ root.add(nodeC);
 root.add(nodeD);
 root.add(nodeE);
 console.log(root.getList()); // 'A B C D E'
+
+
